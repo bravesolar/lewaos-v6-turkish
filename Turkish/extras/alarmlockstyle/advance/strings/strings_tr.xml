@@ -1,0 +1,16 @@
+<strings>
+    <string name="short_date_format" value="MM/dd EEEE" />
+    <string name="long_date_format" value="yyyy/MM/dd" />
+    <string name="slide_down_lock" value="Click here to remind later" />
+    <string name="slide_close_alarm" value="Slide down off the alarm" />
+    <string name="slide_down_call" value="slide down into call" />
+    <string name="slide_down_mess" value="slide down into mess" />
+    <string name="air_quality" value="AQI:" />
+    <string name="chinese_calendar_show" value="0"/>
+    <string name="mon_offsetX" value="60"/>
+    <string name="week_offsetY" value="0"/>
+    <string name="week_offsetX" value="60"/>
+    <string name="week_typeface" value="NeoSans-Light.otf"/>
+    <string name="unreadSMS" value=" unread sms"/>
+    <string name="missCALL" value=" call missed"/>
+</strings>

@@ -1,0 +1,5 @@
+<strings>
+    <string name="slide_down_answer" value="Slide down to answer" />
+    <string name="slide_down_hangup" value="Slide down to hang up" />
+    <string name="slide_down_reply" value="Slide down to reply" />
+</strings>

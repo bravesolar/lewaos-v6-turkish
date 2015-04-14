@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="batteryWarning_label">PilUyarısı</string>
+    <string name="title_charger_over_voltage">Dikkat Aşırı Gerilim</string>
+    <string name="title_battery_over_temperature">Pil Aşırı Isındı</string>
+    <string name="title_over_current_protection">Akım Koruması</string>
+    <string name="title_battery_over_voltage">Dikkat Aşırı Gerilim</string>
+    <string name="title_safety_timer_timeout">Telefonu Şarjdan Çekiniz</string>
+    <string name="title_battery_low_temperature">Low Battery Temperature</string>
+    <string name="msg_charger_over_voltage">Aşırı gerilim, şarz cihazını çıkarın!</string>
+    <string name="msg_battery_over_temperature">Pil aşırı ısındı, Lütfen pili çıkarın!</string>
+    <string name="msg_over_current_protection">Batarya Hatası</string>
+    <string name="msg_battery_over_voltage">Aşırı gerilim, bataryayı çıkarın!</string>
+    <string name="msg_safety_timer_timeout">Şarj cihazınız uyumsuz, lütfen telefonunuzu şarjdan alınız!</string>
+    <string name="msg_battery_low_temperature">Your battery temperature is too low, please disconnect the charger!</string>
+    <string name="btn_ok_msg">Dondur</string>
+    <string name="btn_cancel_msg">İptal</string>
+    <string name="title_power_weak">Yanlış Şarz cihazı algılandı!</string>
+    <string name="msg_power_weak">Cihazınızın zarar görmemesi için, lütfen telefonuzun orjinal şarz cihazını kullanın!</string>
+</resources>

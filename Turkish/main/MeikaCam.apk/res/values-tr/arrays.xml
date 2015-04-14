@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="samples">
+        <item>sample0</item>
+        <item>sample1</item>
+        <item>sample2</item>
+        <item>sample3</item>
+    </string-array>
+    <string-array name="feature_groups">
+        <item>美肤</item>
+        <item>彩妆</item>
+        <item>美容</item>
+        <item>彩妆</item>
+        <item>美颜</item>
+    </string-array>
+    <string-array name="feature_groups_icon">
+        <item>ic_makeup_group_1</item>
+        <item>ic_makeup_group_2</item>
+        <item>ic_makeup_group_3</item>
+        <item>ic_makeup_group_2</item>
+        <item>ic_makeup_group_1</item>
+    </string-array>
+    <string-array name="feature_name_groups">
+        <item>feature_names_group1</item>
+        <item>feature_names_group2</item>
+        <item>feature_names_group3</item>
+        <item>feature_names_group4</item>
+        <item>feature_names_group5</item>
+    </string-array>
+    <string-array name="feature_icon_groups">
+        <item>feature_icons_group1</item>
+        <item>feature_icons_group2</item>
+        <item>feature_icons_group3</item>
+        <item>feature_icons_group4</item>
+        <item>feature_icons_group5</item>
+    </string-array>
+    <string-array name="feature_key_groups">
+        <item>feature_keys_group1</item>
+        <item>feature_keys_group2</item>
+        <item>feature_keys_group3</item>
+        <item>feature_keys_group4</item>
+        <item>feature_keys_group5</item>
+    </string-array>
+    <string-array name="feature_names_group1">
+        <item>skin_whiten</item>
+        <item>skin_soften</item>
+        <item>deblemish</item>
+        <item>depoush</item>
+    </string-array>
+    <string-array name="feature_icons_group1">
+        <item>ic_white</item>
+        <item>ic_dermabrasion</item>
+        <item>ic_spots</item>
+        <item>ic_pouch</item>
+    </string-array>
+    <string-array name="feature_keys_group1">
+        <item>SkinWhiten</item>
+        <item>SkinSoften</item>
+        <item>DeBlemish</item>
+        <item>Depoush</item>
+    </string-array>
+    <string-array name="feature_names_group2">
+        <item>fundation</item>
+        <item>blush</item>
+        <item>eye_liner</item>
+        <item>eye_shadow</item>
+        <item>eyebrow</item>
+        <item>iris</item>
+        <item>eyelash</item>
+        <item>lipstick</item>
+    </string-array>
+    <string-array name="feature_icons_group2">
+        <item>ic_fundation</item>
+        <item>ic_blush</item>
+        <item>ic_eyeline</item>
+        <item>ic_eyeshadow</item>
+        <item>ic_eyebrow</item>
+        <item>ic_contacts</item>
+        <item>ic_mascara</item>
+        <item>ic_rouge</item>
+    </string-array>
+    <string-array name="feature_keys_group2">
+        <item>Fundation</item>
+        <item>Blush</item>
+        <item>EyeLiner</item>
+        <item>EyeShadow</item>
+        <item>EyeBrow</item>
+        <item>Iris</item>
+        <item>EyeLash</item>
+        <item>Lipstick</item>
+    </string-array>
+    <string-array name="feature_names_group3">
+        <item>t_zone</item>
+        <item>slender_face</item>
+        <item>eye_enlarger</item>
+        <item>eye_brighten</item>
+        <item>smile</item>
+        <item>teeth_whiten</item>
+    </string-array>
+    <string-array name="feature_icons_group3">
+        <item>ic_nose</item>
+        <item>ic_fitface</item>
+        <item>ic_big_eye</item>
+        <item>ic_eyedrop</item>
+        <item>ic_smile</item>
+        <item>ic_teeth</item>
+    </string-array>
+    <string-array name="feature_keys_group3">
+        <item>TZone</item>
+        <item>SlenderFace</item>
+        <item>EyeEnlarger</item>
+        <item>EyeBrighten</item>
+        <item>Smile</item>
+        <item>TeethWhiten</item>
+    </string-array>
+    <string-array name="feature_names_group4">
+        <item>fundation</item>
+        <item>blush</item>
+        <item>eye_liner</item>
+        <item>eye_shadow</item>
+        <item>eyebrow</item>
+        <item>iris</item>
+        <item>eyelash</item>
+        <item>lipstick</item>
+    </string-array>
+    <string-array name="feature_icons_group4">
+        <item>ic_fundation_lewa</item>
+        <item>ic_blush_lewa</item>
+        <item>ic_eyeline_lewa</item>
+        <item>ic_eyeshadow_lewa</item>
+        <item>ic_eyebrow_lewa</item>
+        <item>ic_contacts_lewa</item>
+        <item>ic_mascara_lewa</item>
+        <item>ic_rouge_lewa</item>
+    </string-array>
+    <string-array name="feature_keys_group4">
+        <item>Fundation</item>
+        <item>Blush</item>
+        <item>EyeLiner</item>
+        <item>EyeShadow</item>
+        <item>EyeBrow</item>
+        <item>Iris</item>
+        <item>EyeLash</item>
+        <item>Lipstick</item>
+    </string-array>
+    <string-array name="feature_names_group5">
+        <item>skin_whiten</item>
+        <item>skin_soften</item>
+        <item>deblemish</item>
+        <item>depoush</item>
+        <item>t_zone</item>
+        <item>slender_face</item>
+        <item>eye_enlarger</item>
+        <item>eye_brighten</item>
+        <item>smile</item>
+        <item>teeth_whiten</item>
+    </string-array>
+    <string-array name="feature_icons_group5">
+        <item>ic_white_lewa</item>
+        <item>ic_dermabrasion_lewa</item>
+        <item>ic_spots_lewa</item>
+        <item>ic_pouch_lewa</item>
+        <item>ic_nose_lewa</item>
+        <item>ic_fitface_lewa</item>
+        <item>ic_big_eye_lewa</item>
+        <item>ic_eyedrop_lewa</item>
+        <item>ic_smile_lewa</item>
+        <item>ic_teeth_lewa</item>
+    </string-array>
+    <string-array name="feature_keys_group5">
+        <item>SkinWhiten</item>
+        <item>SkinSoften</item>
+        <item>DeBlemish</item>
+        <item>Depoush</item>
+        <item>TZone</item>
+        <item>SlenderFace</item>
+        <item>EyeEnlarger</item>
+        <item>EyeBrighten</item>
+        <item>Smile</item>
+        <item>TeethWhiten</item>
+    </string-array>
+    <string-array name="feature_color_keys">
+        <item>Blush</item>
+        <item>EyeLiner</item>
+        <item>Iris</item>
+        <item>EyeLash</item>
+        <item>EyeShadow</item>
+        <item>Lipstick</item>
+        <item>Fundation</item>
+        <item>EyeBrow</item>
+    </string-array>
+    <string-array name="feature_color_files">
+        <item>Blush.ini</item>
+        <item>eyeLiner.ini</item>
+        <item>IRIS.ini</item>
+        <item>eyeLash.ini</item>
+        <item>eyeShadow.ini</item>
+        <item>Lipstick.ini</item>
+        <item>Fundation.ini</item>
+        <item>eyeBrow.ini</item>
+    </string-array>
+    <string-array name="template_keys">
+        <item>Blush</item>
+        <item>Iris</item>
+        <item>EyeLiner</item>
+        <item>EyeLash</item>
+        <item>EyeShadow</item>
+        <item>EyeBrow</item>
+    </string-array>
+    <string-array name="Blush">
+        <item>blush</item>
+    </string-array>
+    <string-array name="Iris">
+        <item>iriscolor</item>
+    </string-array>
+    <string-array name="EyeLiner">
+        <item>eyeline_upper</item>
+        <item>eyeline_lower</item>
+    </string-array>
+    <string-array name="EyeLash">
+        <item>eyelash_upper</item>
+        <item>eyelash_lower</item>
+    </string-array>
+    <string-array name="EyeShadow">
+        <item>eyeshadow</item>
+    </string-array>
+    <string-array name="EyeBrow">
+        <item>eyebrow</item>
+    </string-array>
+    <string-array name="sub_icon">
+        <item>ic_sub_1</item>
+        <item>ic_sub_2</item>
+        <item>ic_sub_3</item>
+    </string-array>
+    <string-array name="sub_icon_lewa">
+        <item>ic_sub_lewa_1</item>
+        <item>ic_sub_lewa_2</item>
+        <item>ic_sub_lewa_3</item>
+    </string-array>
+    <string-array name="fundation_param">
+        <item>p_fundation_0</item>
+        <item>p_fundation_1</item>
+        <item>p_fundation_2</item>
+        <item>p_fundation_3</item>
+        <item>p_fundation_4</item>
+        <item>p_fundation_5</item>
+        <item>p_fundation_6</item>
+        <item>p_fundation_7</item>
+        <item>p_fundation_8</item>
+    </string-array>
+    <string-array name="fundation_name">
+        <item>fundation_0</item>
+        <item>fundation_1</item>
+        <item>fundation_2</item>
+        <item>fundation_3</item>
+        <item>fundation_4</item>
+        <item>fundation_5</item>
+        <item>fundation_6</item>
+        <item>fundation_7</item>
+        <item>fundation_8</item>
+    </string-array>
+    <string-array name="fundation_icon">
+        <item>remover</item>
+        <item>ic_fundation_5</item>
+        <item>ic_fundation_11</item>
+        <item>ic_fundation_4</item>
+        <item>ic_fundation_21</item>
+        <item>ic_fundation_24</item>
+        <item>ic_fundation_15</item>
+        <item>ic_fundation_31</item>
+        <item>ic_fundation_2</item>
+    </string-array>
+    <string-array name="blush_param">
+        <item>f_blush_0</item>
+        <item>f_blush_1</item>
+        <item>f_blush_2</item>
+        <item>f_blush_3</item>
+        <item>f_blush_4</item>
+        <item>f_blush_5</item>
+    </string-array>
+    <string-array name="blush_name">
+        <item>blush_0</item>
+        <item>blush_1</item>
+        <item>blush_2</item>
+        <item>blush_3</item>
+        <item>blush_4</item>
+        <item>blush_5</item>
+    </string-array>
+    <string-array name="blush_icon">
+        <item>remover</item>
+        <item>ic_blush_1</item>
+        <item>ic_blush_2</item>
+        <item>ic_blush_3</item>
+        <item>ic_blush_4</item>
+        <item>ic_blush_5</item>
+    </string-array>
+    <string-array name="eye_liner_param">
+        <item>f_eye_liner_0</item>
+        <item>f_eye_liner_1</item>
+        <item>f_eye_liner_2</item>
+        <item>f_eye_liner_3</item>
+        <item>f_eye_liner_4</item>
+        <item>f_eye_liner_5</item>
+        <item>f_eye_liner_6</item>
+        <item>f_eye_liner_7</item>
+        <item>f_eye_liner_8</item>
+        <item>f_eye_liner_9</item>
+    </string-array>
+    <string-array name="eye_liner_name">
+        <item>eye_liner_0</item>
+        <item>eye_liner_1</item>
+        <item>eye_liner_2</item>
+        <item>eye_liner_3</item>
+        <item>eye_liner_4</item>
+        <item>eye_liner_5</item>
+        <item>eye_liner_6</item>
+        <item>eye_liner_7</item>
+        <item>eye_liner_8</item>
+        <item>eye_liner_9</item>
+    </string-array>
+    <string-array name="eye_liner_icon">
+        <item>remover</item>
+        <item>ic_eye_liner_1</item>
+        <item>ic_eye_liner_2</item>
+        <item>ic_eye_liner_3</item>
+        <item>ic_eye_liner_4</item>
+        <item>ic_eye_liner_5</item>
+        <item>ic_eye_liner_6</item>
+        <item>ic_eye_liner_7</item>
+        <item>ic_eye_liner_8</item>
+        <item>ic_eye_liner_9</item>
+    </string-array>
+    <string-array name="eye_shadow_param">
+        <item>f_eye_shadow_0</item>
+        <item>f_eye_shadow_1</item>
+        <item>f_eye_shadow_2</item>
+        <item>f_eye_shadow_3</item>
+        <item>f_eye_shadow_4</item>
+        <item>f_eye_shadow_5</item>
+        <item>f_eye_shadow_6</item>
+        <item>f_eye_shadow_7</item>
+        <item>f_eye_shadow_8</item>
+        <item>f_eye_shadow_9</item>
+        <item>f_eye_shadow_10</item>
+        <item>f_eye_shadow_11</item>
+        <item>f_eye_shadow_12</item>
+        <item>f_eye_shadow_13</item>
+    </string-array>
+    <string-array name="eye_shadow_name">
+        <item>eye_shadow_0</item>
+        <item>eye_shadow_1</item>
+        <item>eye_shadow_2</item>
+        <item>eye_shadow_3</item>
+        <item>eye_shadow_4</item>
+        <item>eye_shadow_5</item>
+        <item>eye_shadow_6</item>
+        <item>eye_shadow_7</item>
+        <item>eye_shadow_8</item>
+        <item>eye_shadow_9</item>
+        <item>eye_shadow_10</item>
+        <item>eye_shadow_11</item>
+        <item>eye_shadow_12</item>
+        <item>eye_shadow_13</item>
+    </string-array>
+    <string-array name="eye_shadow_icon">
+        <item>remover</item>
+        <item>ic_eye_shadow_1</item>
+        <item>ic_eye_shadow_2</item>
+        <item>ic_eye_shadow_3</item>
+        <item>ic_eye_shadow_4</item>
+        <item>ic_eye_shadow_5</item>
+        <item>ic_eye_shadow_6</item>
+        <item>ic_eye_shadow_7</item>
+        <item>ic_eye_shadow_8</item>
+        <item>ic_eye_shadow_9</item>
+        <item>ic_eye_shadow_10</item>
+        <item>ic_eye_shadow_11</item>
+        <item>ic_eye_shadow_12</item>
+        <item>ic_eye_shadow_13</item>
+    </string-array>
+    <string-array name="eye_brow_param">
+        <item>f_eye_brow_0</item>
+        <item>f_eye_brow_1</item>
+        <item>f_eye_brow_2</item>
+        <item>f_eye_brow_3</item>
+        <item>f_eye_brow_4</item>
+        <item>f_eye_brow_5</item>
+        <item>f_eye_brow_6</item>
+        <item>f_eye_brow_7</item>
+    </string-array>
+    <string-array name="eye_brow_name">
+        <item>eyebrow_0</item>
+        <item>eyebrow_1</item>
+        <item>eyebrow_2</item>
+        <item>eyebrow_3</item>
+        <item>eyebrow_4</item>
+        <item>eyebrow_5</item>
+        <item>eyebrow_6</item>
+        <item>eyebrow_7</item>
+    </string-array>
+    <string-array name="eye_brow_icon">
+        <item>remover</item>
+        <item>ic_eyebrow_1</item>
+        <item>ic_eyebrow_2</item>
+        <item>ic_eyebrow_3</item>
+        <item>ic_eyebrow_4</item>
+        <item>ic_eyebrow_5</item>
+        <item>ic_eyebrow_6</item>
+        <item>ic_eyebrow_7</item>
+    </string-array>
+    <string-array name="iris_param">
+        <item>f_iris_0</item>
+        <item>f_iris_1</item>
+        <item>f_iris_2</item>
+        <item>f_iris_3</item>
+        <item>f_iris_4</item>
+        <item>f_iris_5</item>
+        <item>f_iris_6</item>
+        <item>f_iris_7</item>
+    </string-array>
+    <string-array name="iris_name">
+        <item>iris_0</item>
+        <item>iris_1</item>
+        <item>iris_2</item>
+        <item>iris_3</item>
+        <item>iris_4</item>
+        <item>iris_5</item>
+        <item>iris_6</item>
+        <item>iris_7</item>
+    </string-array>
+    <string-array name="iris_icon">
+        <item>remover</item>
+        <item>ic_iris_1</item>
+        <item>ic_iris_2</item>
+        <item>ic_iris_3</item>
+        <item>ic_iris_4</item>
+        <item>ic_iris_5</item>
+        <item>ic_iris_6</item>
+        <item>ic_iris_7</item>
+    </string-array>
+    <string-array name="eye_lash_param">
+        <item>f_eye_lash_0</item>
+        <item>f_eye_lash_1</item>
+        <item>f_eye_lash_2</item>
+        <item>f_eye_lash_3</item>
+        <item>f_eye_lash_4</item>
+        <item>f_eye_lash_5</item>
+        <item>f_eye_lash_6</item>
+        <item>f_eye_lash_7</item>
+        <item>f_eye_lash_8</item>
+        <item>f_eye_lash_9</item>
+        <item>f_eye_lash_10</item>
+        <item>f_eye_lash_11</item>
+        <item>f_eye_lash_12</item>
+        <item>f_eye_lash_13</item>
+        <item>f_eye_lash_14</item>
+    </string-array>
+    <string-array name="eye_lash_name">
+        <item>eye_lash_0</item>
+        <item>eye_lash_1</item>
+        <item>eye_lash_2</item>
+        <item>eye_lash_3</item>
+        <item>eye_lash_4</item>
+        <item>eye_lash_5</item>
+        <item>eye_lash_6</item>
+        <item>eye_lash_7</item>
+        <item>eye_lash_8</item>
+        <item>eye_lash_9</item>
+        <item>eye_lash_10</item>
+        <item>eye_lash_11</item>
+        <item>eye_lash_12</item>
+        <item>eye_lash_13</item>
+        <item>eye_lash_14</item>
+    </string-array>
+    <string-array name="eye_lash_icon">
+        <item>remover</item>
+        <item>ic_eye_lash_1</item>
+        <item>ic_eye_lash_2</item>
+        <item>ic_eye_lash_3</item>
+        <item>ic_eye_lash_4</item>
+        <item>ic_eye_lash_5</item>
+        <item>ic_eye_lash_6</item>
+        <item>ic_eye_lash_7</item>
+        <item>ic_eye_lash_8</item>
+        <item>ic_eye_lash_9</item>
+        <item>ic_eye_lash_10</item>
+        <item>ic_eye_lash_11</item>
+        <item>ic_eye_lash_12</item>
+        <item>ic_eye_lash_13</item>
+        <item>ic_eye_lash_14</item>
+    </string-array>
+    <string-array name="lipstick_param">
+        <item>p_lipstick_0</item>
+        <item>p_lipstick_17</item>
+        <item>p_lipstick_13</item>
+        <item>p_lipstick_2</item>
+        <item>p_lipstick_11</item>
+        <item>p_lipstick_14</item>
+        <item>p_lipstick_16</item>
+        <item>p_lipstick_18</item>
+        <item>p_lipstick_12</item>
+        <item>p_lipstick_4</item>
+        <item>p_lipstick_5</item>
+        <item>p_lipstick_3</item>
+        <item>p_lipstick_8</item>
+        <item>p_lipstick_7</item>
+        <item>p_lipstick_15</item>
+        <item>p_lipstick_1</item>
+        <item>p_lipstick_10</item>
+    </string-array>
+    <string-array name="lipstick_name">
+        <item>lipstick_0</item>
+        <item>lipstick_17</item>
+        <item>lipstick_13</item>
+        <item>lipstick_2</item>
+        <item>lipstick_11</item>
+        <item>lipstick_14</item>
+        <item>lipstick_16</item>
+        <item>lipstick_18</item>
+        <item>lipstick_12</item>
+        <item>lipstick_4</item>
+        <item>lipstick_5</item>
+        <item>lipstick_3</item>
+        <item>lipstick_8</item>
+        <item>lipstick_7</item>
+        <item>lipstick_15</item>
+        <item>lipstick_1</item>
+        <item>lipstick_10</item>
+    </string-array>
+    <string-array name="lipstick_icon">
+        <item>remover</item>
+        <item>ic_lipstick_1</item>
+        <item>ic_lipstick_2</item>
+        <item>ic_lipstick_3</item>
+        <item>ic_lipstick_4</item>
+        <item>ic_lipstick_5</item>
+        <item>ic_lipstick_6</item>
+        <item>ic_lipstick_7</item>
+        <item>ic_lipstick_8</item>
+        <item>ic_lipstick_9</item>
+        <item>ic_lipstick_10</item>
+        <item>ic_lipstick_11</item>
+        <item>ic_lipstick_12</item>
+        <item>ic_lipstick_13</item>
+        <item>ic_lipstick_14</item>
+        <item>ic_lipstick_15</item>
+        <item>ic_lipstick_16</item>
+    </string-array>
+    <string-array name="flash_param">
+        <item>p_organic</item>
+        <item>p_mftx</item>
+        <item>p_blme</item>
+        <item>p_mlsl</item>
+        <item>p_xhmc</item>
+        <item>p_gmxj</item>
+        <item>p_mqtf</item>
+        <item>p_wcbf</item>
+        <item>p_mtgg</item>
+        <item>p_fsth</item>
+        <item>p_yqww</item>
+    </string-array>
+    <string-array name="flash_icon">
+        <item>ic_flash_remover</item>
+        <item>ic_flash_14</item>
+        <item>ic_flash_15</item>
+        <item>ic_flash_1</item>
+        <item>ic_flash_3</item>
+        <item>ic_flash_4</item>
+        <item>ic_flash_5</item>
+        <item>ic_flash_6</item>
+        <item>ic_flash_9</item>
+        <item>ic_flash_10</item>
+        <item>ic_flash_11</item>
+    </string-array>
+    <string-array name="flash_sample">
+        <item>s_0</item>
+        <item>s_1</item>
+        <item>s_2</item>
+        <item>s_8</item>
+        <item>s_10</item>
+        <item>s_11</item>
+        <item>s_12</item>
+        <item>s_13</item>
+        <item>s_16</item>
+        <item>s_17</item>
+        <item>s_18</item>
+    </string-array>
+    <string-array name="flash_name">
+        <item>original</item>
+        <item>magic</item>
+        <item>holly</item>
+        <item>ocean</item>
+        <item>velvet</item>
+        <item>winter</item>
+        <item>charm</item>
+        <item>romance</item>
+        <item>candy</item>
+        <item>petal</item>
+        <item>doll</item>
+    </string-array>
+</resources>

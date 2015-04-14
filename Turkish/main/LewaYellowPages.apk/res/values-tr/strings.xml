@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yulore_yellow_api_key">TiJ7avywd4T8Yr7yTQmbWZ9btamDfNTk</string>
+    <string name="yulore_yellow_api_signature">RmpOVFEzTTJJNVlUazRPR013TkdOaE1tWmhNV1JrWldFNE9Eaz1ZelptWW1WbU5UUTBOVEEwTURVd01qRmhNVFV3WkdZeE1tTTVPRGc0Tm1RPVpUazNZamRsWVRCak9EWmlNVEJsWkRnellUQmlNemRtTldKaE5EQXhOMl</string>
+    <string name="baidu_location_app_key">7825fe7ed97a39b2f9e8b36a136f0f5d</string>
+    <string name="yellowpages_activity_title">YellowPages</string>
+    <string name="yellowpages_correct_activity_title">YellowPages Correct</string>
+    <string name="list_loading">Loading…</string>
+    <string name="load_more_data">Load more data</string>
+    <string name="hint_find_yellowpages">Find YellowPages</string>
+    <string name="hint_findCity">Find City</string>
+    <string name="frequently_phone">Frequently Phone</string>
+    <string name="living_service">Living Service</string>
+    <string name="default_city">shanghai</string>
+    <string name="label_auto_city">Location</string>
+    <string name="label_hot_city">Hot City</string>
+    <string name="menu_search_title">Search</string>
+    <string name="prompt_no_match_city">This city have no yellowpages</string>
+    <string name="prompt_no_match_yellowpages">"Can't find any yellowpages"</string>
+    <string name="prompt_no_any_favorite_phone">There is no any favorite phone</string>
+    <string name="title_switch_city">Switch City</string>
+    <string name="prompt_content_switch_city">You are in %s , Whether to switch to the current city?</string>
+    <string name="button_switch">Switch</string>
+    <string name="err_msg_network">Internet error</string>
+    <string name="err_msg_no_data">No data</string>
+    <string name="network_setting">Network settings</string>
+    <string name="refresh_retry">Refresh Retry</string>
+    <string name="unit_meter">%sm</string>
+    <string name="unit_kilometer">%skm</string>
+</resources>

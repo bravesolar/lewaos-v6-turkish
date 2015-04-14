@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga_trackingId">UA-51356579-3</string>
+    <string name="app_name">LIPService</string>
+    <string name="versionname">1.1.0</string>
+    <string name="download">Download</string>
+    <string name="notification_have_update">can upgrade!</string>
+    <string name="notification_update_all"> apps </string>
+    <string name="notification_update_game"> games </string>
+    <string name="notification_etc">etc.</string>
+    <string name="notification_have_new_version">There are new.</string>
+    <string name="no_network">Unable to connect to the network</string>
+    <string name="in_the_mobile_network_environment">Now in the mobile network environment, the download will use mobile data traffic will, determined to download?</string>
+    <string name="download_prompt">Download prompt</string>
+    <string name="confirm">determine</string>
+    <string name="cancel">cancel</string>
+    <string name="install">install</string>
+    <string name="download_now">Download now</string>
+    <string name="push_appid">6e2713a6efee97bacb63e52c54f0ada0</string>
+    <string name="push_appkey">qLNgmXHqYw8M2I8U0V8yk</string>
+    <string name="push_appsecret">8O03598mV38HiQ5oCKBaI3</string>
+    <string name="payload_receiver_action">com.igexin.sdk.action.6e2713a6efee97bacb63e52c54f0ada0</string>
+    <string name="package_name_appstore">com.lewa.appstore</string>
+    <string name="package_name_gamecenter">com.lewa.gamecenter</string>
+</resources>

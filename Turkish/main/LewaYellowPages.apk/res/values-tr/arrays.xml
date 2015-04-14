@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="yellowpages_group_items">
+        <item>美食送餐</item>
+        <item>酒店</item>
+        <item>快递物流</item>
+        <item>银行</item>
+        <item>火车航空</item>
+        <item>家政</item>
+        <item>搬家</item>
+        <item>人才招聘</item>
+        <item>数码家电</item>
+        <item>租车代驾</item>
+        <item>电商购物</item>
+        <item>教育</item>
+        <item>公共热线</item>
+        <item>收藏</item>
+    </string-array>
+    <array name="yellowpages_nearby_categoty_items">
+        <item>附近美食</item>
+        <item>附近酒店</item>
+        <item>附近快递网点</item>
+        <item>附近银行网点</item>
+        <item>附近火车票代售点,附近机票代售点</item>
+        <item>附近家政</item>
+        <item>附近搬家</item>
+        <item>附近人才招聘</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="yellowpages_nearby_categoty_item_ids">
+        <item>52</item>
+        <item>207</item>
+        <item>437</item>
+        <item>51</item>
+        <item>137,139</item>
+        <item>420</item>
+        <item>419</item>
+        <item>89</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="yellowpages_global_categoty_item_ids">
+        <item>119</item>
+        <item>10003</item>
+        <item>10001</item>
+        <item>123</item>
+        <item>136</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>10004</item>
+        <item>10002</item>
+        <item>132</item>
+        <item>1469</item>
+        <item>10005</item>
+        <item>0</item>
+    </array>
+    <array name="yellowpages_group_item_icons">
+        <item>@drawable/icon_food_delivery</item>
+        <item>@drawable/icon_hotel</item>
+        <item>@drawable/icon_express_logistics</item>
+        <item>@drawable/icon_bank</item>
+        <item>@drawable/icon_train_airplane</item>
+        <item>@drawable/icon_housekeeping</item>
+        <item>@drawable/icon_move_house</item>
+        <item>@drawable/icon_recruitment</item>
+        <item>@drawable/icon_mobile_appliances</item>
+        <item>@drawable/icon_car_driving</item>
+        <item>@drawable/icon_shopping_electricity_supplier</item>
+        <item>@drawable/icon_education</item>
+        <item>@drawable/icon_hotline</item>
+        <item>@drawable/icon_yellowpages_favorite</item>
+    </array>
+    <string-array name="hot_cities">
+        <item>北京</item>
+        <item>重庆</item>
+        <item>成都</item>
+        <item>广州</item>
+        <item>杭州</item>
+        <item>南京</item>
+        <item>上海</item>
+        <item>深圳</item>
+        <item>苏州</item>
+        <item>沈阳</item>
+        <item>天津</item>
+        <item>武汉</item>
+        <item>西安</item>
+    </string-array>
+</resources>

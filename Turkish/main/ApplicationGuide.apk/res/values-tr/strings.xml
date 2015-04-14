@@ -1,0 +1,6 @@
+<resources>
+    <string name="next">"İleri"</string>
+    <string name="scroll_left_bar_title">"Scroll to view more capture modes
+"</string>
+    <string name="zoome_title">"Yakınlaştır/Uzaklaştır"</string>
+</resources>

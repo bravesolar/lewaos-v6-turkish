@@ -1,0 +1,24 @@
+<strings>
+    <string name="short_date_format" value="MM/dd EEEE" />
+    <string name="long_date_format" value="yyyy/MM/dd" />
+     <string name="slide_up_camera" value="slide up to camera" />
+  <!--   <string name="slide_down_lock" value="slide down to unlock" /> -->
+       <string name="slide_down_lock" value="" />
+    <string name="slide_down_call" value="slide down into call" />
+    <string name="slide_down_mess" value="slide down into mess" />
+    <string name="air_quality" value="AQI:" />
+    <string name="chinese_calendar_show" value="0"/>
+    <string name="week_offsetY" value="0"/>
+    <string name="week_offsetX" value="60"/>
+    <string name="week_typeface" value="NeoSans-Light.otf"/>
+    <string name="unreadSMS" value=" unread message"/>
+    <string name="missCALL" value=" call missed"/>
+    <string name="am" value="AM"/>
+    <string name="pm" value="PM"/>
+	<string name="str_misscall" value="call missed"/>
+	<string name="str_unread_sms" value="message"/>
+	<string name="month_day_format" value="MM.dd"/>
+	<string name="tips_right_move" value="Slide right into the details"/>
+	<string name="unknow_number" value="Unknow"/>
+	<string name="subzero" value="-"/>
+</strings>
